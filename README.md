@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharksumi
 - 👀 I’m interested in videogames and technology
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning about DevOps and Front-end development
 - 💞️ I’m looking to collaborate on people who like to learn!
 
 <!---
